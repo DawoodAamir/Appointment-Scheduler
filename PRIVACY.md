@@ -1,0 +1,3 @@
+# Data and privacy
+
+Client names, optional contact details, notes, times, and status are stored locally as JSON in Application Support. No account, server, analytics, or network connection is used. The app does not access Contacts or read the user’s calendar. Notification permission is requested only from Enable reminders. Reminder text does not expose client names or notes. Calendar exports contain client names, service names, times, and notes; inspect them before sharing. Export files are temporary and may remain until iOS clears them. Device backups may include application data according to the user’s backup settings.

@@ -1,0 +1,1 @@
+An offline iOS scheduler with conflict-aware booking, available time slots, local reminders, and RFC 5545 calendar export.
